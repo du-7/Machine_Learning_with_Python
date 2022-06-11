@@ -77,4 +77,4 @@ After your run the cell, you should see all 50 test images with a label showing 
 
 **Cell 11**
 
-Run this final cell to see if you passed the challenge or if you need to keep trying. 
+Run this final cell to see if you passed the challenge or if you need to keep trying.  
