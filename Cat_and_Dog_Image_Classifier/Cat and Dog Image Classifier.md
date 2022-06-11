@@ -32,7 +32,9 @@ For the *_data_gen variables, use the flow_from_directory method. Pass in the ba
 After you run the code, the output should look like this:
 
 Found 2000 images belonging to 2 classes.
+
 Found 1000 images belonging to 2 classes.
+
 Found 50 images belonging to 1 class.
 
 **Cell 4**
